@@ -1,0 +1,11 @@
+C:\Users\gurpreet\source\repos\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.0\ToDoApi.csprojResolveAssemblyReference.cache
+C:\Users\gurpreet\source\repos\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.0\ToDoApi.csproj.CoreCompileInputs.cache
+C:\Users\gurpreet\source\repos\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.0\ToDoApi.AssemblyInfoInputs.cache
+C:\Users\gurpreet\source\repos\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.0\ToDoApi.AssemblyInfo.cs
+C:\Users\gurpreet\source\repos\ToDoApi\ToDoApi\bin\Debug\netcoreapp2.0\ToDoApi.deps.json
+C:\Users\gurpreet\source\repos\ToDoApi\ToDoApi\bin\Debug\netcoreapp2.0\ToDoApi.runtimeconfig.json
+C:\Users\gurpreet\source\repos\ToDoApi\ToDoApi\bin\Debug\netcoreapp2.0\ToDoApi.runtimeconfig.dev.json
+C:\Users\gurpreet\source\repos\ToDoApi\ToDoApi\bin\Debug\netcoreapp2.0\ToDoApi.dll
+C:\Users\gurpreet\source\repos\ToDoApi\ToDoApi\bin\Debug\netcoreapp2.0\ToDoApi.pdb
+C:\Users\gurpreet\source\repos\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.0\ToDoApi.dll
+C:\Users\gurpreet\source\repos\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.0\ToDoApi.pdb
